@@ -76,6 +76,11 @@ button {
 
 /* INFO SECTION */
 
+/* test style */
+.info img{
+  max-width: 200px;
+}
+
 /* QUOTE SECTION */
 
 .quote {
