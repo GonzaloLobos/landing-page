@@ -76,9 +76,34 @@ button {
 
 /* INFO SECTION */
 
-/* test style */
-.info img{
-  max-width: 200px;
+.info h2 {
+  color: #1F2937;
+  font-size: 36px;
+  font-weight: 900;
+  text-align: center;
+  margin: 42px
+}
+
+.info-content {
+  display: flex;
+  max-width: 800px;
+  flex-wrap: wrap;
+  margin: auto;
+  padding-bottom: 95px;
+  justify-content: center;
+  gap: 32px;
+}
+.info-content img {
+  max-width: 100%;
+  margin-bottom: 12px;
+  border-radius: 7%;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  max-width: 150px;
+  text-align: center;
 }
 
 /* QUOTE SECTION */
