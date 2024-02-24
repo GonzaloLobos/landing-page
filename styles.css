@@ -157,6 +157,9 @@ body {
 
 .footer {
   background-color: #1f2937;
+  color: #F9FAF8;
+  text-align: center;
+  padding: 16px 0px;
 }
 
 /* SIGN UP BUTTON */
